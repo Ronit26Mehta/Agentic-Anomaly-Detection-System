@@ -28,7 +28,8 @@ An **Agentic System for Dynamic Anomaly Detection in Heterogeneous Data Using Ge
 ---
 ##  system architecutre: 
 
-   ![WhatsApp Image 2025-03-22 at 17 48 23_f139e46d](https://github.com/user-attachments/assets/cca19df8-4bfb-4a05-a651-b3cf2e1dd7e8)
+   ![image](https://github.com/user-attachments/assets/02ed3ed8-5a38-4d6f-94f6-62b7fe09f2a9)
+
    
 
 ## Overview
